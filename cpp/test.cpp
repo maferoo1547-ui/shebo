@@ -1,9 +1,10 @@
 #include <iostream>
-
+using namespace std;
 int main(){
-    
-    std::cout << "t3ala mos ya sh3ban \n";
+    int m;
+    cin >> m;
+    cout << "t3ala mos ya sh3ban \n";
 
 }
 
-/* msms ya sh3b */
+// msms ya sh3b 
