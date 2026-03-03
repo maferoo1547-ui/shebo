@@ -1,0 +1,8 @@
+#include <iostream>
+
+int main(){
+    
+    std::cout << "t3ala mos ya sh3ban \n";
+
+}
+
